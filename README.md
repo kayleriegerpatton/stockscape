@@ -8,7 +8,7 @@
   - [Deployed Application](#deployed-application)
 - [Contributors](#contributors)
 - [Plans For Improvement](#plans-for-improvement)
-- [Screenshots](#screenshots)
+- [GIFs](#GIFs)
 
 ## About The Project
 
@@ -62,7 +62,7 @@ Then I can view other users' profiles and portfolios
 - Pull company/stock data from live API
 - Head-to-head gameplay option
 
-## Screenshots
+## GIFs
 
 ### Login & Dashboard Charts
 
