@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lianavaleria15/stockscape.git"
+    "url": "git+https://github.com/kayleriegerpatton/stockscape.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lianavaleria15/stockscape/issues"
+    "url": "https://github.com/kayleriegerpatton/stockscape/issues"
   },
-  "homepage": "https://github.com/lianavaleria15/stockscape#readme",
+  "homepage": "https://github.com/kayleriegerpatton/stockscape#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "chart.js": "^3.7.0",
