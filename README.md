@@ -47,7 +47,7 @@ Then I can view other users' profiles and portfolios
 
 ### Deployed Application
 
-- [Visit the deployed application](https://stockscape.herokuapp.com)
+- [Visit the deployed application](https://stockscape-game.herokuapp.com/)
 
 ## Contributors
 
