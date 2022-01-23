@@ -60,7 +60,18 @@ Then I can view other users' profiles and portfolios
 
 - Additional data charts on dashboard
 - Pull company/stock data from live API
-- Additional error and edge case handling
 - Head-to-head gameplay option
 
 ## Screenshots
+
+### Login & Dashboard Charts
+
+![login and animated charts gif](public/assets/images/GIFs/StockscapeGIF.gif)
+
+### Portfolio Stock Addition
+
+![stock add gif](public/assets/images/GIFs/StockscapeGIF2.gif)
+
+### User Profile & Public Profiles
+
+![user profile and public portfolio view](public/assets/images/GIFs/StockscapeGIF3.gif)
