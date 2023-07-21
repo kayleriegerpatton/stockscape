@@ -5,7 +5,6 @@
 - [About The Project](#about-the-project)
   - [User Flow](#user-flow)
   - [Technologies Used](#technologies-used)
-  - [Deployed Application](#deployed-application)
 - [Contributors](#contributors)
 - [Plans For Improvement](#plans-for-improvement)
 - [GIFs](#GIFs)
@@ -45,16 +44,11 @@ Then I can view other users' profiles and portfolios
   - Express.js server
   - MySQL database & Sequelize package
 
-### Deployed Application
-
-- [Visit the deployed application](https://stockscape-game.herokuapp.com/)
-
 ## Contributors
-
+- [Kayle Rieger Patton](https://github.com/kayleriegerpatton)
 - [Conor Kelly](https://github.com/conorjkelly96)
 - [Liana Laurentiu](https://github.com/lianavaleria15)
 - [Matthew Palmer](https://github.com/tigerbath)
-- [Kayle Rieger Patton](https://github.com/kayleriegerpatton)
 
 ## Plans For Improvement
 
